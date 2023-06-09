@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neelesh Kumar Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Grocery Store**
+- 🔭 I’m currently working on **Stock Peer Comparison Website**
 
 - 🌱 I’m currently learning **Javascript**
 
